@@ -2,7 +2,7 @@
 
 *From EERD to relational schema to live SQL queries — a full three-phase hospital database project.*
 
-A complete hospital database system for the fictional Ivor Paine Memorial Hospital, built across three milestones for CS 3303 - Database Systems Lab at FAST-NUCES. The project covers everything from conceptual design and normalization to SQL Server implementation and a PHP web front-end for running reports.
+A complete hospital database system for the fictional Ivor Paine Memorial Hospital, built across three milestones for CL 2005 - Database Systems Lab at FAST-NUCES. The project covers everything from conceptual design and normalization to SQL Server implementation and a PHP web front-end for running reports.
 
 ---
 
@@ -23,7 +23,7 @@ A complete hospital database system for the fictional Ivor Paine Memorial Hospit
 ![Query Runner](Images/queryRunner.png)
 *12 SQL Server reports with live parameterized filters*
 
-![EERD](Milestone1/i240525_i240653_i240720_i240806_EERD.png)
+![EERD](Milestone1/EERD.png)
 *Enhanced Entity-Relationship Diagram — full hospital domain*
 
 ---
