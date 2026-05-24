@@ -8,22 +8,28 @@ A complete hospital database system for the fictional Ivor Paine Memorial Hospit
 
 ## 📸 Screenshots
 
-![Dashboard](Images/dashboard.png)!
+![Dashboard](Images/dashboard.png)
+
 *Live admin dashboard with stat cards, recent activites, diseases summary, and ward occupancy*
 
-![Patient Record](Images/patientRecord.png)!
+![Patient Record](Images/patientRecord.png)
+
 *Full medical record lookup by patient*
 
-![Ward Report](Images/wardRecord.png)!
+![Ward Report](Images/wardRecord.png)
+
 *Ward structure with Day/Night Sisters and care unit assignments*
 
-![Consultant Team](Images/consultantTeam.png)!
+![Consultant Team](Images/consultantTeam.png)
+
 *Consultant specialty and doctor team view*
 
-![Query Runner](Images/queryRunner.png)!
+![Query Runner](Images/queryRunner.png)
+
 *12 SQL Server reports with live parameterized filters*
 
-![EERD](Milestone1/EERD.png)!
+![EERD](Milestone1/EERD.png)
+
 *Enhanced Entity-Relationship Diagram — full hospital domain*
 
 ---
