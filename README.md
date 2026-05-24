@@ -134,9 +134,8 @@ IvorPaineHospital-Database/
 ## ⚙️ Prerequisites
 
 - **SQL Server** (2019 or later) — [Download here](https://www.microsoft.com/en-us/sql-server/sql-server-downloads)
-- **PHP 8.0+** with the `sqlsrv` and `pdo_sqlsrv` extensions — [PHP for Windows](https://windows.php.net/download/)
-- **Microsoft Drivers for PHP for SQL Server** — [Download here](https://learn.microsoft.com/en-us/sql/connect/php/download-drivers-php-sql-server)
-- A local web server — **XAMPP**, **Laragon**, or plain PHP CLI server
+- **PHP 8.0+** — [PHP for Windows](https://windows.php.net/download/)
+- **XAMPP** (for PHP) — [Download here](https://www.apachefriends.org/download.html)
 
 ---
 
@@ -167,10 +166,10 @@ define('DB_PASSWORD', 'your_password');
 
 ### Step 3 — Start the web server
 
-From the `Milestone3/hospital/` directory:
+Open a terminal inside the `Milestone3/hospital/` directory and run:
 
 ```bash
-php -S localhost:8000
+& "C:\xampp\php\php.exe" -S localhost:8000
 ```
 
 Then open [http://localhost:8000](http://localhost:8000) in your browser.
