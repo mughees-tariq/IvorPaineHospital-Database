@@ -9,7 +9,7 @@ A complete hospital database system for the fictional Ivor Paine Memorial Hospit
 ## 📸 Screenshots
 
 ![Dashboard](Images/dashboard.png)
-*Live admin dashboard with stat cards, complaint summary, and ward occupancy*
+*Live admin dashboard with stat cards, recent activites, diseases summary, and ward occupancy*
 
 ![Patient Record](Images/patientRecord.png)
 *Full medical record lookup by patient*
